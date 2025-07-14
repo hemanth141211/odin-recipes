@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Schnitzel Sandwich</title>
+    </head>
+
+    <body>
+        <h1>Schnitzel Sandwich</h1>
+        <img src="../assets/schnitzelsandwich.png" alt="Schnitzel Sandwich Image">
+        <h3>Description</h3>
+        <p>This schnitzel sandwich is an homage to my time spent in Austria. It's something you might find on a snack cart on the street in Austria or Germany. A tender chicken schnitzel inside a crusty sub roll with lettuce, mayo, lemon juice, and mustard. A simple and delicious sandwich that can be made with leftovers if desired! It goes perfectly with a beer and a handful of chips.</p>
+        <h3>Ingredients</h3>
+        <ul>
+            <li>Boneless Chicken Breasts</li>
+            <li>All-Purpose Flour</li>
+            <li>Large Eggs</li>
+            <li>Dry Bread Crumbs</li>
+            <li>Vegetable Oil</li>
+            <li>Mayonnaise</li>
+            <li>Sandwich Rolls</li>
+        </ul>
+        <a href="../index.html" rel="noopener noreferrer">Home</a>
+    </body>
+
+</html>
